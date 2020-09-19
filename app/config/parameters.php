@@ -2,7 +2,7 @@
   'parameters' => 
   array (
     'database_host' => '127.0.0.1',
-    'database_port' => '',
+    'database_port' => '8111',
     'database_name' => 'bo_joyas',
     'database_user' => 'Angel',
     'database_password' => '123456',
